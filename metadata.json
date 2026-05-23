@@ -1,0 +1,6 @@
+{
+  "name": "DocDriver Scan & OCR",
+  "description": "Tactile E2EE document scanning, OCR parsing with confidence levels, and automated cloud sheet sync designed specifically for truck drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
